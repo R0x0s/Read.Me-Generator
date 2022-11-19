@@ -1,10 +1,10 @@
 ## Table of Content
-- [Project Discriptions](#discription)
-- [Usage](#usage)
-- [Contribution Guide](#contributionGuide)
-- [Installation Guide](#installation)
-- [Test Instructions](#testInstructions)
-- [Licenses Used](#license)
+*- [Project Discriptions](#discription)
+*- [Usage](#usage)
+*- [Contribution Guide](#contributionGuide)
+*- [Installation Guide](#installation)
+*- [Test Instructions](#testInstructions)
+*- [Licenses Used](#license)
 
 ## Project Discription
 Having a professional ReadMe is very important in showing off your code to a future employer or a colleague. With this program you are able to generate a high quality ReadMe file that will follow standard formatting. Presenting a high quality ReadMe will showcase that your work is clean and hopefully your code as well.
