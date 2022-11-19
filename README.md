@@ -19,12 +19,16 @@ It will templatize it self such as the following
 (Provide examples on how to use this application)
 
 ## Contribution Guide
+(Be sure to explain how you would like to contrtibute to your project)
 
 ## Installation Guide
+(Provide what packages and modules are needed to make the application run)
 
 ## Test Instructions
+(Step by step provide what you need to do to run the application)
 
 ## Liceneses Used
+(What licenses are used for your project)
 
 
 ##Contact
