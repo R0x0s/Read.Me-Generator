@@ -30,7 +30,6 @@ It will templatize it self such as the following
 ## Liceneses Used
 (What licenses are used for your project)
 
-
 ##Contact
 * **github 
 * **E-mail
