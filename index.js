@@ -78,12 +78,12 @@ inquirer.prompt([
 })=>{
 // layout of READ ME
 const template =  `## Table of Content
-- [Project Discriptions](#discription)
-- [Usage](#usage)
-- [Contribution Guide](#contributionGuide)
-- [Installation Guide](#installation)
-- [Test Instructions](#testInstructions)
-- [Licenses Used](#license)
+*- [Project Discriptions](#discription)
+*- [Usage](#usage)
+*- [Contribution Guide](#contributionGuide)
+*- [Installation Guide](#installation)
+*- [Test Instructions](#testInstructions)
+*- [Licenses Used](#license)
 
 ## Project Discription
 ${discription}
