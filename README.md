@@ -5,29 +5,27 @@ This ReadMe generator showcases how to make a professional ReadMe file in second
 It will templatize it self such as the following 
 
 ## Navigate To:
-* [Description](#description)
-* [Installation](#installation)
+* [Project Description](#description)
 * [Usage](#usage)
-* [Instructions](#instrucitons )
-* [Demo](#demo)
-* [Questions](#questions)
-* [Credits](#credits)
+* [Contribution Guide](#contributionGuide)
+* [Installation Guide](#installation)
+* [Test Instructions](#testInstrucitons )
+* [Liceneses Used](#license)
 
-## Description 
+## Project Discription
 (Provide in full detail what your application will do)
-## Installation
-(What modules and packages you need to make this application work)
 
 ## Usage 
 (Provide examples on how to use this application)
 
-## Instructions 
+## Contribution Guide
 
-* **Installation
-* **Usage
-* **Licenses
-* **Contributing
-* **Tests
+## Installation Guide
+
+## Test Instructions
+
+## Liceneses Used
+
 
 ##Contact
 * **github 
